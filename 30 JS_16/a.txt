@@ -1,0 +1,19 @@
+01.js
+
+AXIOS LIBRARY
+
+internally uses fetch to get the data from API
+here the parsing is not required
+
+using it by cdn
+
+02.js
+
+dog images
+
+03.js
+API calls with headers
+
+04.js
+
+Uodating the query string
